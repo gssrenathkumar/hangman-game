@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hangman Game</title>
   </head>
   <body>
     <h1>Hangman Game</h1>
